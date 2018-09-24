@@ -10,7 +10,7 @@ Ridge Regression (gradient descent)
 - graphlab
 
 ## Used data set 
-[kc_house_data.gl](link to data in repo)
+[kc_house_data.gl](https://github.com/Magho/Ridge-regression/tree/master/kc_house_data.gl)
 
 # Algorithms used :
 - Ridge Regression.
